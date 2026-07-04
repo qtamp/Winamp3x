@@ -47,9 +47,9 @@
 	<text id="winamp.txt.inactive" x="22" y="3" text="Winamp" w="300" h="20" font="titlebar" fontsize="15"
     color="wasabi.text.inactive" bold="1" antialias="0" ghost="1" activealpha="0" inactivealpha="255"/>
 
-	<text id="wacup.txt" x="22" y="4" text="WACUP" w="300" h="18" font="titlebar" fontsize="15"
+	<text id="wacup.txt" x="22" y="4" text="QTAMP" w="300" h="18" font="titlebar" fontsize="15"
     color="wasabi.text.active" bold="1" antialias="0" ghost="1" activealpha="255" inactivealpha="0"/>
-	<text id="wacup.txt.inactive" x="22" y="4" text="WACUP" w="300" h="18" font="titlebar" fontsize="15"
+	<text id="wacup.txt.inactive" x="22" y="4" text="QTAMP" w="300" h="18" font="titlebar" fontsize="15"
     color="wasabi.text.inactive" bold="1" antialias="0" ghost="1" activealpha="0" inactivealpha="255"/>
 	
 	<group id="player.shade.group.display" x="118" y="0" ghost="1" cursor="cur.normal"/>
